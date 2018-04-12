@@ -1,0 +1,23 @@
+For training folder:
+ 
+Image Name           Class Label
+
+1-5.jpg       Blue Eraser with Character
+
+6-10.jpg      Red Eraser with Character	
+
+11-15.jpg     Eraser with Note Symbol
+
+16-20.jpg     Eraser with Piano Symbol
+
+21-25.jpg     Pink Correction Fluid
+
+26-30.jpg     Blue Correction Fluid
+
+31-35.jpg     Green Correction Fluid
+
+36-40.jpg     White Eraser with Character
+
+41-45.jpg     Sarajevo Memory
+
+46-50.jpg     Ultrasonic Sensor
